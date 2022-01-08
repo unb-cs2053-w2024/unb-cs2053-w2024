@@ -46,5 +46,5 @@
 
 | Date | Test |
 |------|-------|
-| 02/28 | Project Proposal |
+| 02/16 | Project Proposal |
 | 04/08 | Final Project and Video |
