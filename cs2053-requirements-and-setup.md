@@ -6,16 +6,17 @@ This course requires you to use the Unity Editor in your course work to create g
 
 ## TL;DR
 
-- We will be using Unity LTS 2019.4.XX
+- We will be using Unity LTS 2019.4.XX. This is NOT negotiable. Your TAs will be marking with this version of Unity and compatibility is YOUR responsibility.
 - Visual Studio Community 2019 is strongly suggested as an editor for Windows and Mac, Rider for Linux
-- We will use GitHub for as much as possible in the class, and recommend using the GitHub Desktop for this
+- Community 2022 may work but was not tested for this class
+- We will use GitHub for as much as possible in the class, and recommend using the GitHub Desktop for this. Setting up for CLI and such with github requires token generation or ssh and more. You can use the command line but it will be up to you to figure things out.
 
 
 ## Installing Unity and Visual Studio Community
 
 Use the links and instructions below to install the correct version of Unity.
 
-1. First, download and install ***Unity Hub*** (Unity Hub is a very useful tool for downloading version of the Unity Editor and selecting your projects): [follow this link to the download page and click the button on the right for Unity Hub](https://unity3d.com/get-unity/download). ![Step 1](uploads/images/step1.JPG)
+1. First, download and install ***Unity Hub*** (Unity Hub is a very useful tool for downloading version of the Unity Editor and selecting your projects): [follow this link to the download page and click the button on the right for Unity Hub](https://unity3d.com/get-unity/download). ![Step 1](/images/step1.JPG)
 2. Run and install your Unity Hub download. More instructions on installing Unity Hub or customizing your install are [here](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html).
 3. Once Unity Hub is installed, you will install the most recent LTS (Long-Term Support) version of Unity, which should be 2019.4.x (where the 'x' doesn't matter... it gets updated frequently).
    1. Run Unity Hub. Click "Installs" on the left-hand menu.
@@ -38,7 +39,7 @@ We will use GitHub extensively in this class to access code and submit assignmen
 
 Use the same account for everything you do in the class, so we can always track down your work:
 
-- [Register your GitHub username here](https://forms.office.com/Pages/ResponsePage.aspx?id=0m5OJJoz80e5XORTUcGYt5Cv_Yazi1ZOk3ethx-h5lhUNjM2Q0lJSklOVkdISEI0T0dTRjRNSFhQVS4u)
+- [Register your GitHub username here](https://forms.office.com/Pages/ResponsePage.aspx?id=0m5OJJoz80e5XORTUcGYt2F8PjYD7qJHiHDGUbqLnp1UNkQzSjA1RkNOUzNJNk1KRTVQVkhMRUM1VC4u)
 
 ## Install GitHub Desktop
 
