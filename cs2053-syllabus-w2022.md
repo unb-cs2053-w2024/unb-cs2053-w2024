@@ -26,13 +26,14 @@ See: [Grading and Dates](grades-w2022.md)
 - On Teams
 
 ## Instructor and Contact
-- **Instructor:** Dr. Scott Bateman
-- **Office:** @Home
+- **Instructor:** Dr. Daniel Rea
+- **Office:** @Home, GC110 (ground level Gillin Hall way in the corner)
 - **Office Hours/Questions/Contact:** 
-   - Email and messaging me on Teams are the most effective ways to get a hold of me.
-   - Appointments are welcomed and encouraged to speak with me if you would like to have a conversation.
+   - Online office hours only for now. Monday and Tuesday 1PM-2PM [teams meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDhiZTNiZTktNGM2Yi00MTIwLThkYTItYmVjM2ZkZTliMWY2%40thread.v2/0?context=%7b%22Tid%22%3a%22244e6ed2-339a-47f3-b95c-e45351c198b7%22%2c%22Oid%22%3a%22363e7c61-ee03-47a2-8870-c651ba8b9e9d%22%7d)
+   - Email and messaging me on Teams are the most effective ways to get a hold of me outside of these hours.
+   - Appointments are welcomed and encouraged to speak with me if you would like to have a longer conversation, or can't make normal office hours.
    
-- **Email:** scottb@unb.ca
+- **Email:** daniel.rea@unb.ca
 - **Web:** http://hci.cs.unb.ca
 
 ## Text Books
