@@ -15,5 +15,5 @@ This website is meant to act as the main source for all course related details.
 
 - Teams is used for lectures, communications, sharing videos, slides and other files.
 - D2L is used for tests, other posts, etc
-- [Course GitHub Organization](https://github.com/CS-2053-Winter-2021) - used for submitting assignments, sharing code examples, and hosting this site.
+- [Course GitHub Organization](https://github.com/UNB-CS2053-Winter2022) - used for submitting assignments, sharing code examples, and hosting this site.
 - lectures and other recordings will be posted on D2L or MS Stream
