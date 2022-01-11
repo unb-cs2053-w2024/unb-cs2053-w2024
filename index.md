@@ -7,7 +7,7 @@ This website is meant to act as the main source for all course related details.
 - [Syllabus](cs2053-syllabus-w2022.md) - the official stuff.
 - [Grades and Dates](grades-w2022.md) - listing of important dates for the course and the gradeable items and weights for calculating final grades.
 - [Setting Up Software for Development](cs2053-requirements-and-setup.md) - guide for setting up your dev environment.
-- [Working with Git and GitHub](CS2053-working-with-git.md) - details on the workflow for accessing and completing work using Git and GitHub.
+- [Working with Git and GitHub](cs2053-working-with-git.md) - details on the workflow for accessing and completing work using Git and GitHub.
 
 ### Other info and resources
 
