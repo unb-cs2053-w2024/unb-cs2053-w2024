@@ -1,33 +1,14 @@
 # Software Setup and Requirements for CS 2053
 
-This course requires you to use the Unity Editor in your course work to create games. The editor does not run on a virtual machine, which means ***you must install Unity on your personal machine to be able to complete this course***.
+This course requires you to use the Godot Engine in your course work to create games. The Godot Engine v4.2 should be installed on FCS lab windows machines. Godot is multi-platform (Windows/Mac/Linux), but you will be tested on Windows. You may develop wherever you wish, but test on Windows before submission. 
 
-- [See System Requirements to run Unity](https://docs.unity3d.com/Manual/system-requirements.html#editor)
+- [Download Godot Engine](https://godotengine.org/download/)
 
 ## TL;DR
 
-- We will be using Unity LTS 2019.4.XX. This is NOT negotiable. Your TAs will be marking with this version of Unity and compatibility is YOUR responsibility.
-- Visual Studio Community 2019 is strongly suggested as an editor for Windows and Mac, Rider for Linux
-- Community 2022 may work but was not tested for this class
+- We will be using Godot Engine 4.2.1. This is NOT negotiable. Your TAs will be marking with this version of Unity and compatibility is YOUR responsibility.
+- Godot has a nice built in editor, but if you want [you can configure it to work on other editors](https://docs.godotengine.org/en/stable/contributing/development/configuring_an_ide/visual_studio_code.html). This is up to you and will not be supported in class.
 - We will use GitHub for as much as possible in the class, and recommend using the GitHub Desktop for this. Setting up for CLI and such with github requires token generation or ssh and more. You can use the command line but it will be up to you to figure things out.
-
-
-## Installing Unity and Visual Studio Community
-
-Use the links and instructions below to install the correct version of Unity.
-
-1. First, download and install ***Unity Hub*** (Unity Hub is a very useful tool for downloading version of the Unity Editor and selecting your projects): [follow this link to the download page and click the button on the right for Unity Hub](https://unity3d.com/get-unity/download). ![Step 1](/images/step1.JPG)
-2. Run and install your Unity Hub download. More instructions on installing Unity Hub or customizing your install are [here](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html).
-3. Once Unity Hub is installed, you will install the most recent LTS (Long-Term Support) version of Unity, which should be 2019.4.x (where the 'x' doesn't matter... it gets updated frequently).
-   1. Run Unity Hub. Click "Installs" on the left-hand menu.
-   2. Click the blue "Add" button.
-   3. Select the latest official LTS Unity 2019.4.XXX (LTS) and click "Next"
-   4. Next, we need to select the modules:
-      - We will use **Microsoft Visual Studio Community 2019** as our editor, so select that option, if you don't already have it installed. It is free for Windows and Mac.
-      - If you are on Linux you will need to find another editor, the only one officially supported for Unity on Linux is [Rider](https://www.jetbrains.com/rider/download/#section=linux), which is not free. However, you can get a free license from GitHub for Rider by signing up for the [GitHub Student Developer Pack](https://education.github.com/pack)
-      - You can unselect every other module. 
-        - You do not need to install the documentation (it is available online).
-        - If you like, you can add build support, although, we won't need it for the class. If you do, you might just select build support for your platform, that way you can make your games standalone for your system.
 
 ## Create a GitHub Account
 
